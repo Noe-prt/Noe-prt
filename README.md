@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noe-prt" alt="noe-prt" /></a> </p>
 
-- 🔭 I’m currently working on **PayPal clone**
+- 🔭 I’m currently working on a**MultiplayerPlugin**
 
 - 🌱 I’m currently learning **C++, Flutter**
 
