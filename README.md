@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on a **MultiplayerPlugin**
+- 🔭 I’m currently working on **42ExamTrainer**
 
 - 🌱 I’m currently learning **C++, Flutter**
 
