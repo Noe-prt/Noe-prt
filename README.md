@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Coding since 3 years<br>📚 I'm currently working on 42ExamTrainer<br>🎯 Goals: finish 3 projects in 1 month</h5>
+<h5 align="left">✨ Coding since 3 years<br>📚 I'm currently working on get_next_line<br>🎯 Goals: finish 3 projects in 1 month</h5>
 
 ###
 
