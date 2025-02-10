@@ -45,6 +45,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Noe-prt/Noe-prt/output/snake.svg" alt="Snake animation" />
-
 ###
