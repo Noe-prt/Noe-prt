@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d12,50:0f2a4a,100:1554c0&height=210&section=header&text=Noé%20Pareti&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Web%20%26%20Unreal%20Engine%20Developer%20·%2042%20Paris&descSize=18&descAlignY=58&animation=fadeIn" alt="Noé Pareti" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://portfolio-noe-prt.vercel.app/">
