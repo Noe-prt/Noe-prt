@@ -1,8 +1,11 @@
 <!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d12,50:0f2a4a,100:1554c0&height=210&section=header&text=Noé%20Pareti&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Web%20%26%20Game%20Developer%20%E2%80%A2%2042%20Paris&descSize=20&descAlign=50&descAlignY=58&animation=fadeIn" alt="Noé Pareti" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://portfolio-noe-prt.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Full+Stack+Web+Developer+(React+%2F+Next.js+%2F+TypeScript);Unreal+Engine+C%2B%2B+Game+Developer;Shipped+a+co-op+game+on+Steam+as+the+sole+dev;Published+a+multiplayer+plugin+on+Fab;Student+at+42+Paris" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+(React+%2F+Next.js+%2F+TypeScript);Unreal+Engine+C%2B%2B+Game+Developer;Shipped+a+co-op+game+on+Steam+as+the+sole+dev;Published+a+multiplayer+plugin+on+Fab;Student+at+42+Paris" alt="Typing intro" />
   </a>
 </p>
 
